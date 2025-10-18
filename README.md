@@ -11,3 +11,6 @@ gcc threads.c -o threads && ./threads
 ```sh
 gcc process.c -o process && ./process
 ```
+
+## Process
+<img src="./os_process.png" alt="OS Process"/>
